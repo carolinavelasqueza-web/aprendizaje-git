@@ -3,7 +3,7 @@
 ### Estudiante: Carolina Velasquez
 
 Este repositorio documentará mi progreso.
-## Tecnologías que aprenderé:
+## Tecnologías que aprenderé proximamente:
 
 - JavaScript (ES6+)
 - Node.js y Express
