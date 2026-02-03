@@ -17,3 +17,14 @@ Este repositorio documentará mi progreso.
 2. Todo List app
 3. API REST simple
 4. Python
+
+## 🎯 Habilidades Técnicas
+
+### Completadas:
+- Git: Control de versiones
+- GitHub: Repositorios remotos
+- Markdown: Documentación
+
+### En Aprendizaje:
+- HTML5: Etiquetas semánticas
+- CSS3: Estilos responsive
