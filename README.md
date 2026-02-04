@@ -31,3 +31,13 @@ Este repositorio documentará mi progreso.
 - PHP
 - BASES DE DATOS: MysQl
 
+
+## 📁 Estructura del Proyecto
+
+├── docs/              # Documentación y diario
+│   ├── objetivos.md   # Metas de aprendizaje
+│   └── diario.md      # Bitácora diaria
+├── scripts/           # Scripts de práctica
+│   └── saludo.sh      # Script básico en bash
+└── proyectos/         # Futuros proyectos
+
