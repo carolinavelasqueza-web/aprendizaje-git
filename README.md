@@ -3,12 +3,11 @@
 ### Estudiante: Carolina Velasquez
 
 Este repositorio documentará mi progreso.
-## Tecnologías que aprenderé:
+## Tecnologías que aprenderé proximamente:
 
-- HTML5 y CSS3
 - JavaScript (ES6+)
 - Node.js y Express
-- Python para ciencia de datos
+- Python 
 - React para frontend
 
 ## Proyectos planificados:
@@ -16,6 +15,7 @@ Este repositorio documentará mi progreso.
 1. Página personal (portfolio)
 2. Todo List app
 3. API REST simple
+<<<<<<< HEAD
 4. Python
 
 ## 🎯 Habilidades Técnicas
@@ -28,3 +28,6 @@ Este repositorio documentará mi progreso.
 ### En Aprendizaje:
 - HTML5: Etiquetas semánticas
 - CSS3: Estilos responsive
+- PHP
+- BASES DE DATOS: MysQl
+
